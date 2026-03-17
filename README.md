@@ -1,0 +1,1 @@
+# Lightweight-CNN-Activity-Recognition-on-MCU
